@@ -1,4 +1,3 @@
-Sure, Jitendra! Here's a detailed **`README.md`** file tailored for your regression model comparison project (Random Forest, XGBoost, Decision Tree, Linear Regression), suitable for GitHub:
 
 ---
 
@@ -160,10 +159,3 @@ This project is licensed under the MIT License. Feel free to use, distribute, an
 
 ---
 
-Let me know if you'd like me to:
-- Export this as a `.md` file for GitHub upload
-- Add GitHub Actions for automated testing
-- Include model saving (`.pkl`) or notebook-to-script conversion
-
-Would you like that?
-```
