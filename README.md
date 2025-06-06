@@ -1,4 +1,4 @@
-Sure, here’s a **refined and professional version** of your GitHub `README.md` for the regression model comparison project:
+
 
 ---
 
@@ -166,7 +166,5 @@ Feel free to use, modify, and distribute the work with proper attribution.
 If you found this project helpful, feel free to ⭐ the repo or contribute via pull requests and issues!
 
 ---
-
-Let me know if you’d like me to create the actual `requirements.txt` or add badges (like license, stars, forks) for GitHub.
 
 
